@@ -1,0 +1,7 @@
+{
+    "name": "response/resups",
+    "description": "UPS Module",
+    "type": "oxideshop-module",
+    "homepage": "https://www.response-gmbh.de",
+    "version": "1.0.0"
+}
