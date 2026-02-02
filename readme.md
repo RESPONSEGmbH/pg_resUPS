@@ -12,7 +12,7 @@
 UPS Versandlabel direkt im OXID Admin: Labels pro Bestellung erzeugen & herunterladen, UPS Servicecodes je Versandart konfigurieren und optional Paperless Invoice für Exportsendungen nutzen (Rechnungs-PDF oder Upload einer individuellen Rechnung als PDF).
 
 ### Lizenz / Bezug
-Dieses Paket dient der Paket-Identität und Dokumentation. Die **Vollversion ist lizenzpflichtig** und wird über unseren Shop bereitgestellt: `<SHOP-URL>`.  
+Dieses Paket dient der Paket-Identität und Dokumentation. Die **Vollversion ist lizenzpflichtig** und wird über unseren Shop bereitgestellt: `https://www.response-gmbh.de`.  
 Support/Anfragen: `response@response-gmbh.de`.
 
 ### Funktionen (Auszug)
@@ -40,7 +40,7 @@ Support/Anfragen: `response@response-gmbh.de`.
 UPS shipping labels inside OXID admin: generate & download labels per order, configure UPS service codes per shipping set, and optionally use Paperless Invoice for export shipments (invoice PDF or upload a custom invoice PDF).
 
 ### License / Distribution
-This package is used for package identity and documentation. The **full version requires a license** and is provided via our shop: `<SHOP-URL>`.  
+This package is used for package identity and documentation. The **full version requires a license** and is provided via our shop: `https://www.response-gmbh.de`.  
 Support/inquiries: `response@response-gmbh.de`.
 
 ### Features (excerpt)
