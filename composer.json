@@ -1,7 +1,27 @@
 {
     "name": "response/resups",
-    "description": "UPS Module",
-    "type": "oxideshop-module",
+    "description": "UPS shipping & Paperless Invoice module for OXID eShop: create shipping labels in admin, configure UPS service per shipping set, and add a GDPR consent checkbox in checkout.",
+    "type": "library",
+    "keywords": [
+        "oxid",
+        "oxideshop",
+        "module",
+        "ups",
+        "shipping",
+        "shipping-label",
+        "label",
+        "paperless-invoice",
+        "gdpr",
+        "checkout",
+        "admin",
+        "commercial"
+    ],
     "homepage": "https://www.response-gmbh.de",
-    "version": "1.0.0"
+    "license": ["proprietary"],
+    "require": {
+        "php": ">=7.4"
+    },
+    "suggest": {
+        "commercial-license": "The full version is available via https://www.response-gmbh.de/oxid-ups-modul/oxid-version/oxid-ce-pe-6.x (license required)."
+    }
 }
